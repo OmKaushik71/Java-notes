@@ -1,5 +1,5 @@
 import java.io.*;
-
+// program to copy contents from one file to another file
 class Main{
     public static void main(String args[]){
         try{

@@ -18,4 +18,6 @@ class Main{
             System.out.println(e);
         }
     }
+    // java BufferedOutput Stream and DataOutputStream are sub classes of FilterOutputStream.
+    //  similarly BufferedInputStream and DataInputStream are sub classes of FilterInputStream.
 }
