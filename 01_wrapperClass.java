@@ -12,7 +12,7 @@ public static void main(String args[]){
 	Integer x = a;
 	Double y = b;
 
-	// This automatic conversion to primitive data type to object is known as Autoboxing.
+	// This automatic conversion from primitive data type to object is known as Autoboxing.
 	if(x instanceof Integer){
 	 System.out.println("x belongs to Integer class");
 	 System.out.println("X.intValue() :"+x.intValue());
